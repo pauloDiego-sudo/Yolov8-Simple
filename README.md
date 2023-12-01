@@ -65,7 +65,7 @@ The code is considering the file `samples/video2.mp4` as the default video. It c
 
 Here an example how the video would turn out:
 
-![](https://github.com/pauloDiego-sudo/Yolov8-Simple/tree/master/samples/output.gif)
+![](https://github.com/pauloDiego-sudo/Yolov8-Simple/example.gif)
 
 ## License
 
