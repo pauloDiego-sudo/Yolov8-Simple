@@ -21,7 +21,7 @@ Before running the project, make sure you have the following:
 
 1. Clone the repository
    ```
-   git clone git@github.com:pauloDiego-sudo/Management-API.git
+   git clone git@github.com:pauloDiego-sudo/Yolov8-Simple.git
    ```
 2. Go to the project directory
 3. Create a python virtual enviroment (venv):
