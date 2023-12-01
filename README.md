@@ -1,13 +1,3 @@
-O pip precisa ser atual
-
-para instalar
-
-Make sure you have python 3.11.6 or lower
-
-If you have a GPU (unlike me) then change the code line `results = model(frame, device='cpu', classes=0, conf=0.8)` to `results = model(frame, device=0, classes=0, conf=0.8)`
-
-The video must be in MP4 format
-
 # YOLOv8 Face and Person, Tracking and bluring
 
 This project is a simple usage of the YOLOv8 from Ultralytics.
@@ -61,6 +51,8 @@ Everytime you run the application, it must be in the enviroment previously creat
 
 Put the video at the same folder as this aplication, then in the code `yolo.py` change the `video_path` variable with your video name or path.
 
+**The video must be in MP4 format.**
+
 Run the aplication by calling 
 
 ```
@@ -73,7 +65,7 @@ The code is considering the file `samples/video2.mp4` as the default video. It c
 
 Here an example how the video would turn out:
 
-![]()
+![](https://github.com/pauloDiego-sudo/Yolov8-Simple/tree/master/samples/output.gif)
 
 ## License
 
